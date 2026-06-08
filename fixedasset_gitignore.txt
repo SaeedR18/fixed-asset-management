@@ -1,0 +1,14 @@
+# Microsoft Office
+*.xlsx
+*.xlsm
+*.accdb
+*.accde
+~$*.xlsx
+~$*.accdb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
